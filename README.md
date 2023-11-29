@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Mucyo Hubert
-- 👀 I’m currently persuing BSc in software engineering
+- I’m currently persuing BSc in software engineering
 - I code because I have to
+- I am definitely a christian
