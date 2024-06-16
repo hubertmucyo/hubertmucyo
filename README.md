@@ -1,5 +1,5 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*jD0m-iEIUEehvQDiSSI5Eg.jpeg)
-<h1 align="center">Hi 👋, I'm Mucyo Hbert</h1>
+<h1 align="center">Hi 👋, I'm Mucyo Hubert</h1>
 <h3 align="center">A passionate software developer from Rwanda.</h3>
 <img align="right" alt="coding" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg">
 
