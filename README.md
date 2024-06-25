@@ -9,9 +9,9 @@
 
 - 🔭 I'm currently pursuing [BSc in Software Engineering](at ALU)
 
-- 🌱 I’m currently learning **JS,TS,Ruby,nodejs,react and java**
+- 👨‍🎓 I'm currently pursuing [Bsc in Computer Science](at KDU)
 
-- 👯 I'm currently pursuing [Bsc in Computer Science](at KDU)
+- 🌱 I’m currently learning **JS,TS,Ruby,nodejs,react and java**
 
 - 💬 Ask me about **python, C++, mysql**
 
